@@ -1,14 +1,23 @@
 ManifestFileVersion: 0
-CRC: 2482596859
+CRC: 2765408604
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5c449de7c1bfa11f04cd7e2be8e46d17
+    Hash: b06fa4fe42f85bbd5b8beb393e86cece
   TypeTreeHash:
     serializedVersion: 2
     Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
 HashAppended: 0
 ClassTypes: []
 Assets:
+- Assets/Attack Scenes Papan/attack level - 14.unity
+- Assets/Attack Scenes Papan/attack level - 17.unity
+- Assets/Attack Scenes Papan/attack level - 20.unity
+- Assets/Attack Scenes Papan/attack level - 13.unity
+- Assets/Attack Scenes Papan/attack level - 19.unity
+- Assets/Attack Scenes Papan/attack level - 18.unity
+- Assets/Attack Scenes Papan/attack level - 12.unity
 - Assets/Attack Scenes Papan/attack level - 11.unity
+- Assets/Attack Scenes Papan/attack level - 15.unity
+- Assets/Attack Scenes Papan/attack level - 16.unity
 Dependencies: []
