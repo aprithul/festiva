@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 526928992
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10a9790bafa0ed6162abfb2fbd3b6522
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Attack Scenes Papan/attack level - 1 size - 1x1.unity
+Dependencies: []

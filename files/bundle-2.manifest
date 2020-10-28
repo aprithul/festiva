@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1558886602
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f403dd8aa93316e1ba05471614f9fd4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/Attack Scenes Papan/attack level - 21.unity
+- Assets/Attack Scenes Papan/attack level - 26.unity
+- Assets/Attack Scenes Papan/attack level - 25.unity
+- Assets/Attack Scenes Papan/attack level - 30.unity
+- Assets/Attack Scenes Papan/attack level - 28.unity
+- Assets/Attack Scenes Papan/attack level - 27.unity
+- Assets/Attack Scenes Papan/attack level - 29.unity
+- Assets/Attack Scenes Papan/attack level - 22.unity
+- Assets/Attack Scenes Papan/attack level - 24.unity
+- Assets/Attack Scenes Papan/attack level - 23.unity
+Dependencies: []
