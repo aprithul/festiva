@@ -18,6 +18,8 @@
 			font-family: Arial;
 		}
 		div.chart{
+			margin-left: 1.5%;
+			margin-right:1.5%;
 			width: 100%;
 		}
 
@@ -38,8 +40,9 @@
 	</center>
 </div>
 
-
 <div class="container">
+	<div class="jumbotron">
+
 	<label for="mdvrpDataTextArea">MDVRP data (</label><a href="https://neo.lcc.uma.es/vrp/vrp-instances/description-for-files-of-cordeaus-instances/"> Cordeau's</a> <label>benchmark format)</label>
 	<div class="row">
 		<div class="col">
@@ -107,16 +110,17 @@
 54 60 50 0   0 0 0
 				</textarea>
 				<br>
-				<button style="margin-top: -4%;" type="submit" class="btn btn-primary mb-2" onclick="on_load_callback()">Find Solution</button>
-				<button style="margin-top: -4%;" type="submit" class="btn btn-primary mb-2" onclick="on_reset_callback()">Reset</button>
+				<button type="submit" class="btn btn-primary mb-2" onclick="on_load_callback()">Find Solution</button>
+				<button type="submit" class="btn btn-primary mb-2" onclick="on_reset_callback()">Reset</button>
 			</div>
 		</div>
 		<div class="col-6" >
 			<canvas></canvas>
 		</div>
 	</div>
-	<div class="row" style="margin-top: -2%;">
+	<div class="row"">
 		<div class="chart" id='chart'></div>
+	</div>
 	</div>
 </div>
 
