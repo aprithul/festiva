@@ -9,10 +9,12 @@ var min_y = 9999999;
 var max_x = -9999999;
 var max_y = -9999999;
 var scaling_factor = 1;
+clear_canvas();
 
 function clear_canvas()
 {
-    c.clearRect(0,0,canvas.width, canvas.height);
+    c.fillStyle = "white";
+    c.fillRect(0,0,canvas.width, canvas.height);
 }
 
 function draw_node(x,y,is_depot)
